@@ -27,6 +27,11 @@ info:
     name: "gatewayserver"
     description: "Eazy Bank Gatewayserver Application"
     version: "1.0.0"
+logging:
+  level:
+    com:
+      easybank:
+        gatewayserver: DEBUG
 
 
 
